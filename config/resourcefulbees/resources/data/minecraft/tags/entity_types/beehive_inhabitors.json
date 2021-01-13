@@ -18,8 +18,8 @@
 "resourcefulbees:zombie_bee",
 "resourcefulbees:copper_bee",
 "resourcefulbees:invar_bee",
-"resourcefulbees:lapis_bee",
 "resourcefulbees:pigman_bee",
+"resourcefulbees:lapis_bee",
 "resourcefulbees:rgbee_bee",
 "resourcefulbees:slimy_bee",
 "resourcefulbees:ghast_bee",
@@ -39,13 +39,13 @@
 "resourcefulbees:sand_bee",
 "resourcefulbees:diamond_bee",
 "resourcefulbees:oreo_bee",
-"resourcefulbees:coal_bee",
 "resourcefulbees:iron_bee",
+"resourcefulbees:coal_bee",
 "resourcefulbees:silver_bee",
 "resourcefulbees:uranium_bee",
 "resourcefulbees:wither_bee",
-"resourcefulbees:creeper_bee",
 "resourcefulbees:emerald_bee",
+"resourcefulbees:creeper_bee",
 "resourcefulbees:redstone_bee"
 ]
 }
